@@ -1,9 +1,10 @@
-<h1> Hi! my name is André Gustavo 🪐 </h1>
+# Hi! my name is André Gustavo 🪐
+<img height = "120em" align = "right" src = "https://media4.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=ecf05e47gj629gbcu79n67lvrk4tgd3z712gq7n4gu0dgqwa&rid=giphy.gif&ct=g">
 
 - ☕ I turn coffee into code...
 - 🔭 I'm currently working in C/C++...
 - 🌱 I'm studying Font-End...
-<img height = "120em" align = "right" src = "https://media4.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=ecf05e47gj629gbcu79n67lvrk4tgd3z712gq7n4gu0dgqwa&rid=giphy.gif&ct=g">
+
 
 <div style = "display: inline_block" align = "center"><br>
   <h2>languagens and tools</h2>
