@@ -1,12 +1,12 @@
-<h2> Hi! my name is André Gustavo 🪐 </h2>
-  
+<h1> Hi! my name is André Gustavo 🪐 </h1>
+
 - ☕ I turn coffee into code...
 - 🔭 I'm currently working in C/C++...
 - 🌱 I'm studying Font-End...
-##
-###  languagens and tools
-  
+<img height = "120em" align = "right" src = "https://media4.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=ecf05e47gj629gbcu79n67lvrk4tgd3z712gq7n4gu0dgqwa&rid=giphy.gif&ct=g">
+
 <div style = "display: inline_block" align = "center"><br>
+  <h2>languagens and tools</h2>
   <a href = "https://github.com/AndreGustavo-Developer">
   <!-- languagens -->
   <img aling = "center" alt = "rafa-Js" height = "40" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
