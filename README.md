@@ -81,5 +81,5 @@
 <div align = "center">
  <img src = "https://img.shields.io/badge/AMD-Vega_3-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
  <img src = "https://img.shields.io/badge/AMD-Athlon_3000G-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
- <img src = "https://img.shields.io/badge/Windows10-Desktop-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+ <img src = "https://img.shields.io/badge/Windows_10-Desktop-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div>
