@@ -1,7 +1,7 @@
 <h1 aling = "left"> Hi!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">my name is André Gustavo 🪐</h1>
 <img height = "150em" align = "right" src = "https://media4.giphy.com/media/js585wl3Qpq1UdOITv/giphy.gif?cid=ecf05e47flbimlpe6z2qafoq5h6znm9drlss8uea9gv6hal3&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AndreGustavo-Developer&color=green" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=&color=green" alt="Profile views" /> </p>
 
 - ☕ Me, my codes and a coffee...
 - 🔭 I'm currently working in C/C++...
