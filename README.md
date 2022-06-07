@@ -1,5 +1,5 @@
 <h1 aling = "left"> Hi!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">my name is André Gustavo 🪐</h1>
-<img height = "120em" align = "right" src = "https://media4.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=ecf05e47gj629gbcu79n67lvrk4tgd3z712gq7n4gu0dgqwa&rid=giphy.gif&ct=g">
+<img height = "150em" align = "right" src = "https://media4.giphy.com/media/js585wl3Qpq1UdOITv/giphy.gif?cid=ecf05e47flbimlpe6z2qafoq5h6znm9drlss8uea9gv6hal3&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AndreGustavo-Developer&color=green" alt="Profile views" /> </p>
 
