@@ -7,22 +7,23 @@
 - 🔭 I'm currently working in C/C++...
 - 🌱 I'm studying Font-End...
 
- 
-<div style = "display: inline_block" align = "center"><br>
+   <!-- languagens -->
+<div style = "display: inline_block" align = "center">
   <h2>Languagens</h2>
-  <a href = "https://github.com/AndreGustavo-Developer">
-  <!-- languagens -->
   <img aling = "center" alt = "rafa-Js" height = "40" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img aling = "center" alt = "rafa-Js" height = "40" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img aling = "center" alt = "rafa-Js" height = "40" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img aling = "center" alt = "rafa-Js" height = "40" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img aling = "center" alt = "rafa-Js" height = "40" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
+ 
 
+  <!-- tools -->
 <div style = "display: inline_block" align = "center"><br>
   <h2>Tools</h2>
   <a href = "https://github.com/AndreGustavo-Developer">
-  <!-- tools -->
+
+  <img src = "https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
   <img src = "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
@@ -58,10 +59,12 @@
   <a href = "https://www.linkedin.com/in/andre-gustavo-a18381225/" target = "_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
    
+   
+   <!-- Hobby-->
 <div style = "display: inline_block" align = "center"><br>
   <h2>Hobby</h2>
   <a href = "https://github.com/AndreGustavo-Developer">
-  <!-- Hobby-->
+  
   <img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   <img src = "https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white">
   <img src = "https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white">
@@ -71,4 +74,12 @@
   <img src = "https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
   <img src = "https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white">
   <img src = "https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
+</div>
+ 
+ ##
+ 
+<div align = "center">
+ <img src = "https://img.shields.io/badge/AMD-Vega_3-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
+ <img src = "https://img.shields.io/badge/AMD-Athlon_3000G-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
+ <img src = "https://img.shields.io/badge/Windows10-Desktop-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div>
