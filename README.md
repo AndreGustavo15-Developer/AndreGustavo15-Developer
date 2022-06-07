@@ -48,7 +48,6 @@
   <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AndreGustavo-Developer&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
   
-##
   <!-- redes sociais -->
 <div align = "center">
   <a href = "https://www.instagram.com/andre_gustavo125/" target = "_blank"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
@@ -57,4 +56,20 @@
   <a href = "https://discord.com/channels/900907613162709052/934939099876446208" target = "_blank"><img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"</a>
   <a href = "mailto:andre.gus.programmer@gmail.com" target = "_blank"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
   <a href = "https://www.linkedin.com/in/andre-gustavo-a18381225/" target = "_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-    </div>
+</div>
+   
+<div style = "display: inline_block" align = "center"><br>
+  <h2>Hobby</h2>
+  <a href = "https://github.com/AndreGustavo-Developer">
+  <!-- Hobby-->
+  <img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  <img src = "https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white">
+  <img src = "https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white">
+  <img src = "https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=netflix&logoColor=white">
+  <img src = "https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white">
+  <img src = "https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
+  <img src = "https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white">
+  <img src = "https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+  <img src = "https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white">
+  <img src = "https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
+</div>
