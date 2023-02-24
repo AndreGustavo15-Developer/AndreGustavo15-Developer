@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AndreGustavo-Developer&color=green" alt="Profile views" /> </p>
 
 - ☕ Me, my codes and a coffee...
-- 🔭 I'm currently working in C/C++...
+- 📚 I'm studying C++...
 - 🌱 I'm studying Font-End...
 
    <!-- languagens -->
@@ -81,5 +81,5 @@
 <div align = "center">
  <img src = "https://img.shields.io/badge/AMD-Vega_3-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
  <img src = "https://img.shields.io/badge/AMD-Athlon_3000G-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
- <img src = "https://img.shields.io/badge/Windows_10-Desktop-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+ <img src = "https://img.shields.io/badge/Windows_11-Desktop-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div>
