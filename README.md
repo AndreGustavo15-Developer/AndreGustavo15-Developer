@@ -4,17 +4,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AndreGustavo-Developer&color=green" alt="Profile views" /> </p>
 
 - ☕ Me, my codes and a coffee...
-- 📚 I'm studying C++...
-- 🌱 I'm studying Font-End...
+- 🌱 I'm studying C++...
 
    <!-- languagens -->
 <div style = "display: inline_block" align = "center">
   <h2>Languagens</h2>
-  <img aling = "center" alt = "rafa-Js" height = "40" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img aling = "center" alt = "rafa-Js" height = "40" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img aling = "center" alt = "rafa-Js" height = "40" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img aling = "center" alt = "rafa-Js" height = "40" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img aling = "center" alt = "rafa-Js" height = "40" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img aling = "center" alt = "AndreGustavo_Dev" height = "40" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img aling = "center" alt = "AndreGustavo_Dev" height = "40" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img aling = "center" alt = "AndreGustavo_Dev" height = "40" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img aling = "center" alt = "AndreGustavo_Dev" height = "40" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img aling = "center" alt = "AndreGustavo_Dev" height = "40" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
  
 
