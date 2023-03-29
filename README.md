@@ -5,15 +5,13 @@
 
 - ☕ Me, my codes and a coffee...
 - 🌱 I'm studying C++...
+- 📚 I'm studying C...
 
    <!-- languagens -->
 <div style = "display: inline_block" align = "center">
   <h2>Languagens</h2>
   <img aling = "center" alt = "AndreGustavo_Dev" height = "40" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img aling = "center" alt = "AndreGustavo_Dev" height = "40" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img aling = "center" alt = "AndreGustavo_Dev" height = "40" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img aling = "center" alt = "AndreGustavo_Dev" height = "40" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img aling = "center" alt = "AndreGustavo_Dev" height = "40" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
  
 
@@ -67,7 +65,6 @@
   <img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   <img src = "https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white">
   <img src = "https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white">
-  <img src = "https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=netflix&logoColor=white">
   <img src = "https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white">
   <img src = "https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
   <img src = "https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
