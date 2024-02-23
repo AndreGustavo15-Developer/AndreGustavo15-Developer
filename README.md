@@ -1,7 +1,7 @@
 <h1 aling = "left"> Hi!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">my name is André Gustavo 🪐</h1>
 <img height = "150em" align = "right" src = "https://media4.giphy.com/media/js585wl3Qpq1UdOITv/giphy.gif?cid=ecf05e47flbimlpe6z2qafoq5h6znm9drlss8uea9gv6hal3&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AndreGustavo-Developer&color=green" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AndreGustavo15-Developer&color=green" alt="Profile views" /> </p>
 
 - ☕ Me, my codes and a coffee...
 - 🌱 I'm studying C++...
@@ -18,7 +18,7 @@
   <!-- tools -->
 <div style = "display: inline_block" align = "center"><br>
   <h2>Tools</h2>
-  <a href = "https://github.com/AndreGustavo-Developer">
+  <a href = "https://github.com/AndreGustavo15-Developer">
 
   <img src = "https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
   <img src = "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
@@ -41,15 +41,15 @@
 ##
 
 <div>
-  <a href = "https://github.com/AndreGustavo-Developer">
-  <img height = "150em" src = "https://github-readme-stats.vercel.app/api/?username=AndreGustavo-Developer&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AndreGustavo-Developer&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+  <a href = "https://github.com/AndreGustavo15-Developer">
+  <img height = "150em" src = "https://github-readme-stats.vercel.app/api/?username=AndreGustavo15-Developer&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AndreGustavo15-Developer&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
   
   <!-- redes sociais -->
 <div align = "center">
   <a href = "https://www.instagram.com/andre_gustavo125/" target = "_blank"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-  <a href = "https://github.com/AndreGustavo-Developer" target = "_blank"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"</a>
+  <a href = "https://github.com/AndreGustavo15-Developer" target = "_blank"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"</a>
   <a href = "https://www.facebook.com/andregustavo.fernandesrodrigues.5/" target = "_blank"><img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"</a>
   <a href = "https://discord.com/channels/900907613162709052/934939099876446208" target = "_blank"><img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"</a>
   <a href = "mailto:andre.gus.programmer@gmail.com" target = "_blank"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
@@ -60,7 +60,7 @@
    <!-- Hobby-->
 <div style = "display: inline_block" align = "center"><br>
   <h2>Hobby</h2>
-  <a href = "https://github.com/AndreGustavo-Developer">
+  <a href = "https://github.com/AndreGustavo15-Developer">
   
   <img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   <img src = "https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white">
