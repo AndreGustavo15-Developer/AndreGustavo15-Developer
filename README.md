@@ -1,13 +1,13 @@
 <h1 aling = "left"> Hi!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">my name is André Gustavo 🪐</h1>
-<img height = "150em" align = "right" src = "https://media4.giphy.com/media/js585wl3Qpq1UdOITv/giphy.gif?cid=ecf05e47flbimlpe6z2qafoq5h6znm9drlss8uea9gv6hal3&rid=giphy.gif&ct=g">
+<img height = "150em" align = "right" src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBjNm55cXZ1Y3MyODE5MmxhN256Z2lpeTN1bjI5Mm92MzF0d3FzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHrCZhpFnlyNO/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AndreGustavo15-Developer&color=green" alt="Profile views" /> </p>
 
 - ☕ Me, my codes and a coffee...
-- 🌱 I'm studying C++...
-- 📚 I'm studying C...
+- 🌱 I'm studying C and C++...
 
    <!-- languagens -->
+<br>
 <div style = "display: inline_block" align = "center">
   <h2>Languagens</h2>
   <img aling = "center" alt = "AndreGustavo_Dev" height = "40" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
@@ -21,21 +21,16 @@
   <a href = "https://github.com/AndreGustavo15-Developer">
 
   <img src = "https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
-  <img src = "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src = "https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
   <img src = "https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src = "https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
-  <img src = "https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
   <img src = "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
   <img src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img src = "https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
   <img src = "https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white">
-  <img src = "https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
-  <img src = "https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
-  <img src = "https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+  <img src = "https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white">
   <img src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img src = "https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white">
 </div>
   
 ##
@@ -56,26 +51,12 @@
   <a href = "https://www.linkedin.com/in/andre-gustavo-a18381225/" target = "_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
    
-   
-   <!-- Hobby-->
-<div style = "display: inline_block" align = "center"><br>
-  <h2>Hobby</h2>
-  <a href = "https://github.com/AndreGustavo15-Developer">
-  
-  <img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  <img src = "https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white">
-  <img src = "https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white">
-  <img src = "https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white">
-  <img src = "https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
-  <img src = "https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
-  <img src = "https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white">
-  <img src = "https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
-</div>
  
  ##
  
 <div align = "center">
- <img src = "https://img.shields.io/badge/AMD-Vega_3-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
- <img src = "https://img.shields.io/badge/AMD-Athlon_3000G-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
- <img src = "https://img.shields.io/badge/Windows_11-Desktop-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+ <img src = "https://img.shields.io/badge/AMD-Vega_8-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
+ <img src = "https://img.shields.io/badge/AMD-Ryzen_5700u-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
+ <img src = "https://img.shields.io/badge/Windows_11-laptop-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+ <img src = "https://img.shields.io/badge/Linux-laptop-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div>
