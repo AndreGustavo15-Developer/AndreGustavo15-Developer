@@ -50,17 +50,17 @@
   <img src="https://slackmojis.com/emojis/35860-kirby_cauldron/download" width="36"/>
 </h2>
 
-### 🍇 Grape Engine
+### Dynora Engine
 
 A modular, high-performance game engine built with Zig + C.
 
 🔹 **Concept**
-- Organic modular architecture ("berry system")
+- Organic modular architecture
 - Independent and pluggable modules
 - Lightweight core system
 
 🔹 **Current Work**
-- Designing core architecture (TDD-driven)
+- Designing core architecture
 - Implementing foundational systems (logger)
 - Designing modular system architecture
 
@@ -72,7 +72,7 @@ A modular, high-performance game engine built with Zig + C.
 🔹 **Status**
 - 🧪 Early architecture stage
 
-**[View Grape Engine Repository](https://github.com/AndreGustavo15-Developer/Grape_Engine)**
+**[View Dynora Engine Repository](https://github.com/AndreGustavo15-Developer/Grape_Engine)**
 
 <br>
 <!-- Current Focus -->
@@ -82,7 +82,7 @@ A modular, high-performance game engine built with Zig + C.
   <img src="https://slackmojis.com/emojis/7238-kirby_pan/download" width="40"/>
 </h2>
 
-- Developing a basic game engine using C++ and OpenGL
+- Developing a basic game engine using C and OpenGL
 - Studying memory management and performance optimization in C
 - Learning OpenGL (rendering pipeline, shaders, transformations)
 
